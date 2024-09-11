@@ -4,7 +4,7 @@
 	<TerrainDef ParentName="FloorBase">
 		<defName>UCStripedFloor</defName>
 		<label>Warning floor</label>
-		<description>A metal scaffold flooring with warning patterns. It is used to emphasize dangerous or important things.</description>
+		<description>A metal scaffold flooring with warning patterns used to emphasize dangerous or important things.</description>
 		<texturePath>Floor/Stripedpattern</texturePath>
 		<renderPrecedence>240</renderPrecedence>
 		<isPaintable>true</isPaintable>
@@ -30,7 +30,7 @@
 	<TerrainDef ParentName="FloorBase">
 		<defName>UCScaffoldFloor</defName>
 		<label>Scaffold floor</label>
-		<description>A metal scaffold flooring with dense holes. They are does not get dirty easily and quick to clean.</description>
+		<description>A metal scaffold flooring with dense holes. It accepts very little dirt and is quick to clean.</description>
 		<texturePath>Floor/Scaffold</texturePath>
 		<renderPrecedence>240</renderPrecedence>
 		<isPaintable>true</isPaintable>
@@ -57,7 +57,7 @@
 	<TerrainDef ParentName="FloorBase">
 		<defName>UCScaffoldTile</defName>
 		<label>Scaffold Tile</label>
-		<description>A metal scaffold tile with dense holes. They are does not get dirty easily and quick to clean.</description>
+		<description>A metal scaffold tile with dense holes. It accepts very little dirt and is quick to clean.</description>
 		<texturePath>Floor/ScaffoldTile</texturePath>
 		<renderPrecedence>240</renderPrecedence>
 		<isPaintable>true</isPaintable>
